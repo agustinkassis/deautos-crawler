@@ -1,0 +1,16 @@
+{
+  "name": "deautos-crawler",
+  "version": "0.5.0",
+  "description": "Crawler de Marcas y Modelos de Deautos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agustin Kassis",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.0",
+    "lodash": "^4.17.15",
+    "request": "^2.88.0"
+  }
+}
